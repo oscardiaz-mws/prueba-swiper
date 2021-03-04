@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import '~swiper/swiper-bundle';
+/* .swiper-container {
+  height: 120px;
+} */
+
+.swiper-slide {
+  background: #f1f1f1;
+  color: #000;
+  text-align: center;
+}
